@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanunandan&label=Profile%20views&color=0e75b6&style=flat" alt="krishanunandan" /> </p>
 
-- I'm an experienced Android application developer with over 7+ years of experience in developing and leading scalable performance-driven applications.
+- 7+ years of experience in design and building advanced application for the android platform.
+- Proficient in Android, Java, Kotlin, Jetpack Compose, JSON and XML
+- Experience with Agile/Scrum development methodologies.
+- Experience in Android core concepts like Activity, Service, Broadcast Receivers and Content Provider.
+- Proficiency in the letest Android Jetpack Library and Components including LiveData, ViewModel, and Navigation 
 - 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android,Kotlin,Java**
 - 📫 How to reach me **krishanunandan60@gmail.com**
